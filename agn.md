@@ -1,5 +1,5 @@
-Types of active galactic nuclei:
-===============================
+Types of AGN:
+=============
 
 Types dependent on viewing angle
 
