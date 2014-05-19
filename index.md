@@ -8,3 +8,5 @@ Diffuse spectra outline
 *Most probable sources are AGN
 
 *Neutrino production occurs in the radio jet
+
+* Proton-photon interaction path
