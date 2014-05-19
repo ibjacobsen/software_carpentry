@@ -9,4 +9,8 @@ Radio-quiets have little or no radio-emission
 
 mistake1
 
+
 There are also compton-thick AGN; something something changes
+There are also compton-thick AGN
+And compton-thin
+
