@@ -11,6 +11,8 @@ mistake1
 
 
 There are also compton-thick AGN; something something changes
+
 There are also compton-thick AGN
+
 And compton-thin
 
