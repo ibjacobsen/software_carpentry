@@ -11,3 +11,5 @@ mistake1
 
 There are also compton-thick AGN
 And compton-thin
+
+AGN are weakest in the far-IR
